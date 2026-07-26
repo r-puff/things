@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Calamity_Sans",
+    "previewText": "Text_preview",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "ggsans-Bold": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "ggsans-BoldItalic": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "ggsans-ExtraBold": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "ggsans-ExtraBoldItalic": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "ggsans-Medium": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "ggsans-MediumItalic": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "ggsans-Normal": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "ggsans-NormalItalic": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "ggsans-Semibold": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "ggsans-SemiboldItalic": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "NotoSans-Bold": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "NotoSans-ExtraBold": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "NotoSans-Medium": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "NotoSans-Normal": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "NotoSans-NormalItalic": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true",
+        "NotoSans-Semibold": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Bold.otf?raw=true",
+        "ggmono-Normal": "https://github.com/r-puff/things/blob/9244686756bf753e98789e4150df93e9488705ca/Calamity-Regular.otf?raw=true"
+    }
+}
